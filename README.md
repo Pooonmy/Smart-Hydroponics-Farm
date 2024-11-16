@@ -21,3 +21,8 @@ By utilizing resources efficiently and supporting sustainable practices, this pr
 + ESP32
 
 ## Overview
+![image](https://github.com/Pooonmy/ESP32-Smart-Doorlock/blob/47efe478e31c76b5d995aca743b6cf136695950f/src/overview.png)
+## Circuit
+![image](img src/circuit.jpg)
+## Web Dashboard
+![image](https://github.com/Pooonmy/ESP32-Smart-Doorlock/blob/47efe478e31c76b5d995aca743b6cf136695950f/src/web.png)

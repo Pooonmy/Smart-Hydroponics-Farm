@@ -26,3 +26,5 @@ By utilizing resources efficiently and supporting sustainable practices, this pr
 ![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/dc57990d47a02534ecfb1dcd3f79679839dc4689/img%20src/circuit.jpg)
 ## Web Dashboard
 ![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/dc57990d47a02534ecfb1dcd3f79679839dc4689/img%20src/web%20dashboard.png)
+## Node-Red
+![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/e9bc5c5f74e5a5808115d33254a0aef464e70295/img%20src/nodered.png)

@@ -21,8 +21,8 @@ By utilizing resources efficiently and supporting sustainable practices, this pr
 + ESP32
 
 ## Overview
-![image](https://github.com/Pooonmy/ESP32-Smart-Doorlock/blob/47efe478e31c76b5d995aca743b6cf136695950f/src/overview.png)
+![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/dc57990d47a02534ecfb1dcd3f79679839dc4689/img%20src/overview.jpg)
 ## Circuit
-![image](img src/circuit.jpg)
+![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/dc57990d47a02534ecfb1dcd3f79679839dc4689/img%20src/circuit.jpg)
 ## Web Dashboard
-![image](https://github.com/Pooonmy/ESP32-Smart-Doorlock/blob/47efe478e31c76b5d995aca743b6cf136695950f/src/web.png)
+![image](https://github.com/Pooonmy/Smart-Hydroponics-Farm/blob/dc57990d47a02534ecfb1dcd3f79679839dc4689/img%20src/web%20dashboard.png)
